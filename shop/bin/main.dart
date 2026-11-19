@@ -14,7 +14,7 @@ void main() {
       AppConstants.defaultSmartphoneId,
       AppConstants.defaultSmartphoneName,
       AppConstants.defaultSmartphonePrice,
-    ),
+    ),                 
     Product(
       AppConstants.defaultHeadphonesId,
       AppConstants.defaultHeadphonesName,
